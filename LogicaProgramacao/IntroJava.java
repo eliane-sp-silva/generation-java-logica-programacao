@@ -1,4 +1,4 @@
-package Familia58;
+package LogicaProgramacao;
 
 import java.util.Scanner;
 
