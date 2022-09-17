@@ -13,6 +13,7 @@ public class Cliente {
 		this.endereco = endereco;
 		this.cpf = cpf;
 	}
+	
 
 	public String getNome() {
 		return nome;
